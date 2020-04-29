@@ -11,7 +11,7 @@ The code broadly is comprised of,
 
 - Loading Data
 - Cleaning Data
-- Creating New Features
+- Modifying/Creating Features
 - Encoding
 - Modelling
 - Predicting
