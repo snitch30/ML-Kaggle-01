@@ -6,3 +6,12 @@ This project was a submission for individual Machine Learning competition as par
 The Submission gave the results in Top 10%. The submissions can be found in ```/submission_files``` and ```submission_file_14.csv``` produced the highest score.
 
 The code iterations throughout the semester can be found in ```\code_iterations```. The final code is ```Final_Kaggle.py```.
+
+The code broadly is comprised of,
+
+- Loading Data
+- Cleaning Data
+- Creating New Features
+- Encoding
+- Modelling
+- Predicting
